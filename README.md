@@ -1,6 +1,6 @@
 # Spam Detection on SMS messages 
 
-<img align="left" width="100" height="100" src="https://github.com/rui-zhang-ocean/Spam_Classifier/blob/master/figs/spam-can.png">
+![spam-can](https://github.com/rui-zhang-ocean/Spam_Classifier/blob/master/figs/spam-can.png)
 
 ### Summary
 This project aims to test a range of NLP vectorizers and classifiers on spam detection using data created by [Tiago A. Almeida and José María Gómez Hidalgo](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/). 
